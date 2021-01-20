@@ -2,4 +2,4 @@ This application is an example for Fetch Rewards.  It is a rudimentary text anal
 
 The score looks at the frequency of both individual words, as well as pairs of words that occur next to eachother.  Performance couold be greatly increased by using many of the popular libraries available (though they were not allowed for this particualr project.)
 
-Send a POST request to /api/snippets/  with two arguments, stirng_1 and string_2 (the strings to be compared).  The response will be both strings and the similarity score.
+Send a POST request to /api/snippets/  with two arguments, stfing_1 and string_2 (the strings to be compared).  The response will be both strings and the similarity score.
